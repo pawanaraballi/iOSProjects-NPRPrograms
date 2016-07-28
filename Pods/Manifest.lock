@@ -1,0 +1,26 @@
+PODS:
+  - Alamofire (3.4.1)
+  - FoldingCell (1.0.0)
+  - MGSwipeTableCell (1.5.5)
+  - SDWebImage (3.8.1):
+    - SDWebImage/Core (= 3.8.1)
+  - SDWebImage/Core (3.8.1)
+  - SwiftyJSON (2.3.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - FoldingCell
+  - MGSwipeTableCell
+  - SDWebImage (~> 3.7)
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: 01a82e2f6c0f860ade35534c8dd88be61bdef40c
+  FoldingCell: ca0b0f73a853143bf7d968c04a6604d25fbf1af7
+  MGSwipeTableCell: bafeb5f351124544c9364ecbdf24c7b06a37d340
+  SDWebImage: 35f9627a3e44b4f292a8a8ce6a531fa488239b91
+  SwiftyJSON: 04ccea08915aa0109039157c7974cf0298da292a
+
+PODFILE CHECKSUM: c7ae376dd4d55a6000dc8f4eaa079b8609bbd001
+
+COCOAPODS: 1.0.1
